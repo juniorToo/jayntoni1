@@ -1,0 +1,74 @@
+body {
+	padding: 0;
+	margin: 0;
+	background: url(../images/homebg1.jpg);
+	background-size: 100%;
+}
+
+.logo img {
+	padding: 3px;
+	width: 13%;
+}
+
+.homecontent {
+	text-align: center;
+	color: #fff;
+	padding: 14rem;
+} 
+
+h1, p {
+}
+
+.navbarcontent ul li {
+	display: inline-block;
+	margin-top: -220px;
+	padding: ;
+}
+
+.navbarcontent ul li a{
+	text-decoration: none;
+	font-size: 20px;
+	color: rgba(0.0.0.1);
+	}
+
+.navbarcontent ul li a:hover {
+	color:rgba(200,0,0,1);
+}
+
+.navbarcontent ul {
+	list-style: none;
+	text-align: center;
+	background-color: rgba(252,252,252,1);
+	padding: 40px;
+	margin-top: -95px;
+}
+
+.dot {
+	color: red;
+}
+
+.gridcontainer1 {
+	padding-top: 50px;
+	background: url(images/motorcycle1.jpg);
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows: ;
+	padding: 14rem;
+}
+
+.about {
+	border: 2px solid white;
+	padding: 10px;
+}
+
+.container2 {
+	border: 2px solid red;
+	padding: 10px;
+	line-height: 50px;
+}
+
+.image1 {
+	background: url(images/motorsport2.jpg);
+	background-size: 20%;
+}
+
